@@ -7,11 +7,11 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/Diimzyyy/Moonlight-Swiss
 ```
 
 ```
-cd hardhat-deploy-contract
+cd Moonlight-Swiss
 ```
 
 ### 2. Install Dependency
